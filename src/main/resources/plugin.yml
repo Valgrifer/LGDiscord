@@ -1,0 +1,10 @@
+name: LGDiscord
+version: '1.0'
+main: fr.vf.lgdiscord.LGDiscord
+api-version: '1.16'
+depend:
+  - LoupGarou
+commands:
+  linkdiscord:
+    description: Lien les joueur à discord
+    usage: /linkdiscord
